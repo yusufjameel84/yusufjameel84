@@ -6,17 +6,19 @@
 
 # Hi guys 👋  I'm Yusuf Jameel aka Yusuf.js
 
+I am Full Stack MERN Developer with Solid foundation of Data Structure & Algorithms.
+
 
 
 
 
 - 🔭 At that movement I am doing Bachelors in Computer Science 
-- 🌱 I’m currently working with React JS
+- 🌱 I’m currently working with MERN Stack
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 📫 How to reach me: yusufjameel84@gmail.com
 - 😄 Pronouns : I, you, he, it, they, this
-- ⚡  Fun fact: I spend most of my day coding and Learning everyday ;)
+- ⚡ Fun fact: I spend most of my day coding and Learning everyday ;)
+- 📫 How to reach me: yusufjameel84@gmail.com
 
 
 <h2 align="left">Frontend Languages :</h2>
