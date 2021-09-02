@@ -50,6 +50,6 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   
   <h2 align="left">How to reach me ?</h2>  
-  <a href="https://www.linkedin.com/in/yusuf-jameel-291b39147/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="40" height="40"/> 
+  <a href="https://www.linkedin.com/in/yusuf-jameel-291b39147/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> 
 </p>
 
