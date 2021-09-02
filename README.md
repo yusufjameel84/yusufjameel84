@@ -15,8 +15,8 @@
 - 👯 open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
 - 📫 How to reach me: yusufjameel84@gmail.com
-- 😄 Pronouns: Pronouns: I, you, he, it, they, this
-- ⚡  Fun fact: I spend most of my day coding and Learning everyday. ;)
+- 😄 Pronouns : I, you, he, it, they, this
+- ⚡  Fun fact: I spend most of my day coding and Learning everyday ;)
 
 
 <h2 align="left">Frontend Languages :</h2>
@@ -29,8 +29,8 @@
   
   <h2 align="left">Backend Languages :</h2>
   <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="http://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="http://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a> 
+   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   
   <h2 align="left">Tools used :</h2>
   <a href="https://code.visualstudio.com/download" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
@@ -49,6 +49,7 @@
   <h2 align="left">Other frameworks :</h2>                                     
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
   
-  
+  <h2 align="left">How to reach me ?</h2>  
+  <a href="https://www.linkedin.com/in/yusuf-jameel-291b39147/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin" width="40" height="40"/> 
 </p>
 
