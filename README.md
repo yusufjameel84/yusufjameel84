@@ -12,9 +12,9 @@ I am Full Stack MERN Developer with Solid foundation of Data Structure & Algorit
 
 
 
-- 🔭 At that movement I am doing Bachelors in Computer Science 
+- 🔭 At that moment I am doing Bachelors in Computer Science
 - 🌱 I’m currently working with MERN Stack
-- 👯 open source contributor
+- 👯 Open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
 - 😄 Pronouns : I, you, he, it, they, this
 - ⚡ Fun fact: I spend most of my day coding and Learning everyday ;)
