@@ -6,7 +6,7 @@
 
 # Hi guys 👋  I'm Yusuf Jameel aka Yusuf.js
 
-I am Full Stack MERN Developer with Solid foundation of Data Structure & Algorithms.
+I am a Full Stack MERN Developer with Solid foundation of Data Structure & Algorithms .
 
 
 
