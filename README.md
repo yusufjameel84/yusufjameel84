@@ -12,12 +12,10 @@ I am a Full Stack MERN Developer with Solid foundation of Data Structure & Algor
 
 
 
-- 🔭 At that moment I am doing Bachelors in Computer Science
+- 🔭 CSE Undergrad 
 - 🌱 I’m currently working with MERN Stack
 - 👯 Open source contributor
 - 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
-- 😄 Pronouns : I, you, he, it, they, this
-- ⚡ Fun fact: I spend most of my day coding and Learning everyday ;)
 - 📫 How to reach me: yusufjameel84@gmail.com
 
 
