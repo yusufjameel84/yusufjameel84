@@ -12,10 +12,10 @@ I am a Full Stack MERN Developer with Solid foundation of Data Structure & Algor
 
 
 
-- 🔭 CSE Undergrad 
-- 🌱 I’m currently working with MERN Stack
+- 🔭 CSE Grad 
+- 🌱 I’m currently working with MERN Stack and Flutter 
 - 👯 Open source contributor
-- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS**
+- 💬 Ask me about **MongoDB** **Express** **React JS** **Node JS** **Flutter**
 - 📫 How to reach me: yusufjameel84@gmail.com
 
 
